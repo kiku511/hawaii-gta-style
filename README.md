@@ -1,6 +1,6 @@
 # Hawaii in GTA Style Web Map
 
-This web map is created using Leaflet JS that shows all the airports in the United States. You can interact with it here: <https://kiku511.github.io/usa-airports-viz/>
+This web map is created using Leaflet JS that shows all the airports in the United States. You can interact with it here: <https://kiku511.github.io/hawaii-gta-style/>
 
 ## Description
 
