@@ -13,7 +13,9 @@ var baseMap = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
 var baselayer = L.tileLayer(baseMap, {
   maxZoom: 12,
   attribution:
-    'Map data &copy; <a href="http://openstreetmap.org/copyright">OpenStreetMap</a> contributors',
+    '<a href="https://www.mapbox.com/about/maps/"> © Mapbox </a> \
+    <a href="http://www.openstreetmap.org/copyright"> © OpenStreetMap </a> \
+    <a href="https://www.mapbox.com/map-feedback/"> Improve this map </a>',
 }).addTo(map);
 
 var mytile = L.tileLayer('tiles/{z}/{x}/{y}.jpg', {
